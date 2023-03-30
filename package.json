@@ -14,6 +14,7 @@
     "@react-three/fiber": "^8.12.0",
     "framer-motion": "^10.9.1",
     "maath": "^0.5.3",
+    "math-random": "^2.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-parallax-tilt": "^1.7.120",
